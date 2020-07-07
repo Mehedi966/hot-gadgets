@@ -1,0 +1,37 @@
+.navbar-nav{
+    font-size: 1.3rem;
+    padding-left: 600px;
+}
+.navbar-brand img{
+   
+    height: 70px;
+    width: 160px;
+}
+.navbar-brand{
+    padding-left:200px;
+}
+ .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0, 0, 0, 0.267);
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: gray;
+}
+.navbar-light .navbar-nav .active>.nav-link:hover{
+    color: black;
+}
+.carousel-indicators li{
+    background-image: linear-gradient(to bottom,orange, yellow 100%);
+}
+.btn{
+    height: 40px;
+    width: 140px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
